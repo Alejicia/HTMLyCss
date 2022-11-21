@@ -1,0 +1,13 @@
+h1 {
+    color: darkblue;
+    font-size: 50px;
+}
+.descripcion {
+    color: blueviolet;
+    font-size: medium;
+    font-style: oblique;
+    
+}
+.imagenes {
+    width: 300px;
+}
